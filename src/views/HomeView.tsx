@@ -8,7 +8,7 @@ import missionImg from '../assets/images/premium_farm_lifestyle_1782035018788.jp
 export function HomeView() {
   const navigate = useNavigate();
   const headingTitle = useSEO({
-    title:SunriseCropFarm - Sustainable & Organic Farming',
+    title:'SunriseCropFarm - Sustainable & Organic Farming',
     description: 'Fresh from our fields to your family. Experience sustainable farming and high-quality organic produce with SunriseCropFarm.',
     h1: 'Welcome to SunriseCropFarm'
   });
