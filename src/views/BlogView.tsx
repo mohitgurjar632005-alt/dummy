@@ -5,7 +5,7 @@ import blogBanner from '../assets/images/blog_banner_1782034818828.jpg';
 
 export function BlogView() {
   const headingTitle = useSEO({
-    title: 'Blog | SunriseCropFarm',
+    title: 'SunriseCropFarm - Sustainable & Organic Farming',
     description: 'Read the latest insights and articles on sustainable farming, health, and modern agriculture from SunriseCropFarm.',
     h1: 'Latest Farming Insights'
   });
