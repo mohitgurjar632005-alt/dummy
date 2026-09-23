@@ -5,7 +5,7 @@ import productsBanner from '../assets/images/products_showcase_banner_1782034699
 
 export function ProductsView() {
   const headingTitle = useSEO({
-    title: 'Products | SunriseCropFarm',
+    title: 'SunriseCropFarm - Sustainable & Organic Farming',
     description: 'Discover our fresh agricultural products, including organic wheat, golden corn, and naturally-grown fruits and vegetables.',
     h1: 'Our Products'
   });
