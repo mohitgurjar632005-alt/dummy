@@ -5,7 +5,7 @@ import aboutImage from '../assets/images/about_us_farmers_1782034597291.jpg';
 
 export function AboutView() {
   const headingTitle = useSEO({
-    title: 'About Us | SunriseCropFarm',
+    title: 'SunriseCropFarm - Sustainable & Organic Farming',
     description: 'Learn about SunriseCropFarm, our story, values, vision, and dedication to sustainable agricultural farming practices.',
     h1: 'About SunriseCropFarm'
   });
