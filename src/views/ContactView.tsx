@@ -5,7 +5,7 @@ import contactBanner from '../assets/images/contact_us_banner_1782034915730.jpg'
 
 export function ContactView() {
   const headingTitle = useSEO({
-    title: 'Contact Us | SunriseCropFarm',
+    title: 'SunriseCropFarm - Sustainable & Organic Farming',
     description: 'Get in touch with SunriseCropFarm. We would love to hear from you regarding our products, farming practices, or partnerships.',
     h1: 'Contact Us'
   });
