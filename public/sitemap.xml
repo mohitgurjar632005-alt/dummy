@@ -6,4 +6,16 @@
   <url>
     <loc>https://sunrise-crop-farm.vercel.app/about</loc>
   </url>
+  <url>
+    <loc>https://sunrisecropfarm.vercel.app/practices</loc>
+  </url>
+  <url>
+    <loc>https://sunrisecropfarm.vercel.app/products</loc>
+  </url>
+  <url>
+    <loc>https://sunrisecropfarm.vercel.app/blog</loc>
+  </url>
+   <url>
+    <loc>https://sunrisecropfarm.vercel.app/contact</loc>
+  </url>
 </urlset>
